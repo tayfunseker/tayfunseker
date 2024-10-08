@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**tayfunseker/tayfunseker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Merhaba! Ben Tayfun Şeker 👋
+Hakkımda
+📊 Veri Analistliği eğitimi alıyorum.
+🏠 İstanbul'da yaşıyorum.
+🛠️ SQL, Python, PowerBI ve Excel kullanıyorum.
+📚 Şu anda Kodlasam Programming Academy 'de veri analizi üzerine eğitim alıyorum.
+Power BI veri görselleştirme aracını kullanabiliyorum
+Öne Çıkan Projelerim
+SQL Bolum Sonu Projesi
+İletişim
+📧 Bana ulaşın: tayfunseker.3579@gmail.com
+🌐 LinkedIn Profilim
