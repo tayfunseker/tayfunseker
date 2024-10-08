@@ -1,7 +1,7 @@
 # Merhaba! Ben Tayfun Şeker 👋
 
 ### Hakkımda
-- 📊 Veri Analisti olarak çalışıyorum.
+- 📊 Veri Analistliği eğitimi alıyorum.
 - 🏠 İstanbul'da yaşıyorum.
 - 🛠️ SQL, Python, PowerBI ve Excel kullanıyorum.
 - 📚 Şu anda [Kodlasam Programming Academy](https://www.kodlasam.com) 'de veri analizi üzerine eğitim alıyorum.
