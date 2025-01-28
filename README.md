@@ -1,16 +1,61 @@
 # Merhaba! Ben Tayfun Şeker 👋
 
 ### Hakkımda
-- 📊 Veri Analistliği eğitimi alıyorum.
-- 🏠 İstanbul'da yaşıyorum.
-- 🛠️ SQL, Python, PowerBI ve Excel kullanıyorum.
-- 📚 Şu anda [Kodlasam Programming Academy](https://www.kodlasam.com) 'de veri analizi eğitimini bitirdim
+- 📊 **Veri Analisti** olarak kariyerime odaklanıyorum.
+- 🏠 **İstanbul**, Türkiye'de yaşıyorum.
+- 🛠️ SQL, Python, Power BI ve Excel kullanarak veri analizi yapıyorum.
+- 📚 **Kodlasam Programming Academy**'de **Veri Analizi ve Raporlama** eğitim programını başarıyla tamamladım.
+- 🛒 **Perakende sektöründe 17 yıl** yöneticilik tecrübem var. Veriye dayalı kararlar alarak operasyonel süreçlerin iyileştirilmesine katkıda bulundum.
+- 🎯 Kariyerimde, veri analitiği araçlarını kullanarak **iş süreçlerini optimize etmeyi** ve **performans analizi yapmayı** hedefliyorum.
 
-### Öne Çıkan Projelerim
-- [SQL Analizi Projesi](https://github.com/tayfunseker/SQL_PROJECT)
-- [Python Final Project](https://github.com/tayfunseker/PYTHON_PROJECT_FINAL)
+---
 
-### İletişim
-- 📧 Bana ulaşın: [tayfunseker.3579@gmail.com](mailto:tayfunseker.3579@gmail.com)
-- 🌐 [LinkedIn Profilim](https://www.linkedin.com/in/tayfun-%C5%9Feker-6a22322a9/)
+### 🌟 Teknik Yetenekler
+- **Programlama ve Veri Analizi:**
+  - Python (Pandas, NumPy, Matplotlib, Seaborn, Scipy)
+  - SQL (PostgreSQL, MySQL)
+  - Veri görselleştirme araçları: Power BI, Matplotlib
+  - Microsoft Excel (Gelişmiş fonksiyonlar ve raporlama)
+- **Araçlar ve Platformlar:**
+  - Power BI ile dinamik raporlama ve veri görselleştirme
+  - Git ve GitHub ile versiyon kontrolü
+  - Jupyter Notebook, VS Code
+- **Analiz Teknikleri:**
+  - RFM Analizi, Satış Performansı Analizi, Kategori ve Müşteri Segmentasyonu
+  - Veri temizleme ve dönüşüm
+  - İstatistiksel veri analizi
+
+---
+
+### 🚀 Öne Çıkan Projelerim
+- **[Northwind SQL Analizi](https://github.com/tayfunseker/SQL_PROJECT)**:
+  - SQL ile Northwind veri setini kullanarak ilişkisel tablolar oluşturuldu ve detaylı analizler gerçekleştirildi.
+  - Satış, müşteri ve tedarikçi analizleri yapıldı.
+  - Veriler Power BI ile görselleştirildi.
+- **[Python Final Project](https://github.com/tayfunseker/PYTHON_PROJECT_FINAL)**:
+  - Spotify ve YouTube veri setleri üzerinde analiz.
+  - Python ile veri temizleme, görselleştirme ve analiz çalışmaları yapıldı.
+  - Sanatçı, şarkı popülerliği ve platformlar arasındaki performans karşılaştırmaları.
+- **[Hotel Booking Power BI Dashboard](https://github.com/tayfunseker/HOTEL_BOOKING_ANALYSIS)**:
+  - Hotel Booking veri seti kullanılarak Power BI üzerinde dinamik raporlar hazırlandı.
+  - Oda türü, iptal oranları ve rezervasyon kaynaklarına dair görselleştirmeler.
+
+---
+
+### 🌱 Gelecekteki Hedeflerim
+- 🌟 Veri analizi projelerinde **yapay zeka ve makine öğrenimi algoritmalarını** kullanmayı öğrenmek.
+- 📈 Büyük veri platformları (Hadoop, Spark) ile çalışmak.
+- 💡 Daha fazla proje geliştirerek portföyümü genişletmek.
+
+---
+
+### 📬 İletişim
+- 📧 E-posta: [tayfunseker.3579@gmail.com](mailto:tayfunseker.3579@gmail.com)
+- 🌐 LinkedIn: [Tayfun Şeker](https://www.linkedin.com/in/tayfun-%C5%9Feker-6a22322a9/)
+- 🐙 GitHub: [tayfun79](https://github.com/tayfun79)
+
+---
+
+
+
 
