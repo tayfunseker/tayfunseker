@@ -20,6 +20,21 @@
   </a>
 </p>
 
+## 📬 **Bana Ulaşın**  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/tayfun-%C5%9Feker-6a22322a9/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tayfunseker.3579@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://medium.com/@tayfunseker.3579" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
+</p>
+
+
 
 ---
 
