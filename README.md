@@ -28,7 +28,7 @@
 ---
 
 ### 🚀 Öne Çıkan Projelerim
-- **[Northwind SQL Analizi](https://github.com/tayfunseker/SQL_PROJECT)**:
+- **[Capstone Traders Northwind Project](https://github.com/tayfunseker/Capstone_Traders_Northwind_Project)**:
   - SQL ile Northwind veri setini kullanarak ilişkisel tablolar oluşturuldu ve detaylı analizler gerçekleştirildi.
   - Satış, müşteri ve tedarikçi analizleri yapıldı.
   - Veriler Power BI ile görselleştirildi.
