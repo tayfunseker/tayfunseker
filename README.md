@@ -32,7 +32,7 @@
   - SQL ile Northwind veri setini kullanarak ilişkisel tablolar oluşturuldu ve detaylı analizler gerçekleştirildi.
   - Satış, müşteri ve tedarikçi analizleri yapıldı.
   - Veriler Power BI ile görselleştirildi.
-- **[Python Final Project](https://github.com/tayfunseker/PYTHON_PROJECT_FINAL)**:
+- **[Youtube Spotify Data Analysis Project](https://github.com/tayfunseker/Youtube_Spotify_Eda_Project)**:
   - Spotify ve YouTube veri setleri üzerinde analiz.
   - Python ile veri temizleme, görselleştirme ve analiz çalışmaları yapıldı.
   - Sanatçı, şarkı popülerliği ve platformlar arasındaki performans karşılaştırmaları.
