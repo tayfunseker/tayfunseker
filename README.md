@@ -64,8 +64,8 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" width="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Microsoft_Excel_2013-2019_logo.svg" width="50">
+  <img src="https://seeklogo.com/images/P/power-bi-logo-F4AD7E7AEA-seeklogo.com.png" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Microsoft_Excel_2013_logo.svg" width="50">
 </p>
 
 
