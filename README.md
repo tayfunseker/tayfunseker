@@ -59,6 +59,12 @@
 - 📧 E-posta: [tayfunseker.3579@gmail.com](mailto:tayfunseker.3579@gmail.com)
 - 🌐 LinkedIn: [Tayfun Şeker](https://www.linkedin.com/in/tayfun-%C5%9Feker-6a22322a9/)
 - 🐙 GitHub: [tayfun79](https://github.com/tayfunseker)
+- ### 📊 Seaborn ile Veri Görselleştirme
+![Seaborn Grafiği](seaborn_chart.png)
+
+### 📈 Matplotlib ile Sinüs Grafiği
+![Matplotlib Grafiği](matplotlib_chart.png)
+
 
 
 
