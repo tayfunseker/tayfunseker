@@ -1,15 +1,15 @@
 # Merhaba! Ben Tayfun Şeker 👋
 
-### Hakkımda
+- ### 🌍 Hakkımda 
 - 📊 **Veri Analisti** olarak kariyerime odaklanıyorum.
 - 🏠 **İstanbul**, Türkiye'de yaşıyorum.
 - 🛠️ SQL, Python, Power BI ve Excel kullanarak veri analizi yapıyorum.
 - 📚 **Kodlasam Programming Academy**'de **Veri Analizi ve Raporlama** eğitim programını başarıyla tamamladım.
 - 🛒 **Perakende sektöründe 17 yıl** yöneticilik tecrübem var. Veriye dayalı kararlar alarak operasyonel süreçlerin iyileştirilmesine katkıda bulundum.
 - 🎯 Kariyerimde, veri analitiği araçlarını kullanarak **iş süreçlerini optimize etmeyi** ve **performans analizi yapmayı** hedefliyorum.
-- ## 🌍 Hakkımda  
+ 
 
-## 📬 **Bana Ulaşın**  
+### 📬 **Bana Ulaşın**  
 
 <p align="left">
   <a href="https://www.linkedin.com/in/tayfun-%C5%9Feker-6a22322a9/" target="_blank">
