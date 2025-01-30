@@ -36,9 +36,9 @@
   - Spotify ve YouTube veri setleri üzerinde analiz.
   - Python ile veri temizleme, görselleştirme ve analiz çalışmaları yapıldı.
   - Sanatçı, şarkı popülerliği ve platformlar arasındaki performans karşılaştırmaları.
-- **[Hotel Booking Power BI Dashboard](https://github.com/tayfunseker/HOTEL_BOOKING_ANALYSIS)**:
-  - Hotel Booking veri seti kullanılarak Power BI üzerinde dinamik raporlar hazırlandı.
-  - Oda türü, iptal oranları ve rezervasyon kaynaklarına dair görselleştirmeler.
+- **[Pyhton Final Project(Nobel)](https://github.com/tayfunseker/PYTHON_PROJECT_FINAL/tree/main)**:
+  - Bu projede, veri setindeki temel kalıpları ve eğilimleri göstermek için çeşitli grafikler ve görseller oluşturuldu. Nobel Ödülleri'nin yıllar içindeki değişimini anlamaya yardımcı olacak analizler yapıldı.
+  
 
 ---
 
