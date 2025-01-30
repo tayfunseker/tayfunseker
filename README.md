@@ -37,7 +37,9 @@
   - Python ile veri temizleme, görselleştirme ve analiz çalışmaları yapıldı.
   - Sanatçı, şarkı popülerliği ve platformlar arasındaki performans karşılaştırmaları.
 - **[Pyhton Final Project(Nobel)](https://github.com/tayfunseker/PYTHON_PROJECT_FINAL/tree/main)**:
-  - Bu projede, veri setindeki temel kalıpları ve eğilimleri göstermek için çeşitli grafikler ve görseller oluşturuldu. Nobel Ödülleri'nin yıllar içindeki değişimini anlamaya yardımcı olacak analizler yapıldı.
+  - Bu projede, veri setindeki temel kalıpları ve eğilimleri göstermek için çeşitli grafikler ve görseller oluşturuldu. Nobel Ödülleri'nin yıllar içindeki değişimini anlamaya yardımcı olacak analizler yapıldı.                                                              - **[SQL PROJECT(RFM,ETRADER)](https://github.com/tayfunseker/SQL_PROJECT)**:
+ -Bu proje, bir e-ticaret veri seti üzerinde **RFM Analizi, Satış Analizi, Müşteri ve Satıcı Analizleri, Ödeme Tipleri Analizi** gibi işlemleri SQL kullanarak gerçekleştirmektedir. Çalışmada, veri setinden anlamlı içgörüler çıkarmak için gelişmiş SQL sorguları ve segmentasyon teknikleri kullanılmıştır.  
+
   
 
 ---
