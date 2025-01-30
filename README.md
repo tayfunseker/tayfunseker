@@ -35,7 +35,6 @@
   - Microsoft Excel (Gelişmiş fonksiyonlar ve raporlama)
 - **Araçlar ve Platformlar:**
   - Power BI ile dinamik raporlama ve veri görselleştirme
-  - Git ve GitHub ile versiyon kontrolü
   - Jupyter Notebook, VS Code
 - **Analiz Teknikleri:**
   - RFM Analizi, Satış Performansı Analizi, Kategori ve Müşteri Segmentasyonu
@@ -81,8 +80,7 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50">
-  <img src="https://seeklogo.com/images/P/power-bi-logo-F4AD7E7AEA-seeklogo.com.png" width="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Microsoft_Excel_2013_logo.svg" width="50">
+  
 </p>
 
 
