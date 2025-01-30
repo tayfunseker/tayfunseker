@@ -32,15 +32,19 @@
   - SQL ile Northwind veri setini kullanarak ilişkisel tablolar oluşturuldu ve detaylı analizler gerçekleştirildi.
   - Satış, müşteri ve tedarikçi analizleri yapıldı.
   - Veriler Power BI ile görselleştirildi.
+
 - **[Youtube Spotify Data Analysis Project](https://github.com/tayfunseker/Youtube_Spotify_Eda_Project)**:
   - Spotify ve YouTube veri setleri üzerinde analiz.
   - Python ile veri temizleme, görselleştirme ve analiz çalışmaları yapıldı.
   - Sanatçı, şarkı popülerliği ve platformlar arasındaki performans karşılaştırmaları.
-- **[Pyhton Final Project(Nobel)](https://github.com/tayfunseker/PYTHON_PROJECT_FINAL/tree/main)**:
-  - Bu projede, veri setindeki temel kalıpları ve eğilimleri göstermek için çeşitli grafikler ve görseller oluşturuldu. Nobel Ödülleri'nin yıllar içindeki değişimini anlamaya yardımcı olacak analizler yapıldı.                                                              - **[SQL PROJECT(RFM,ETRADER)](https://github.com/tayfunseker/SQL_PROJECT)**:
- -Bu proje, bir e-ticaret veri seti üzerinde **RFM Analizi, Satış Analizi, Müşteri ve Satıcı Analizleri, Ödeme Tipleri Analizi** gibi işlemleri SQL kullanarak gerçekleştirmektedir. Çalışmada, veri setinden anlamlı içgörüler çıkarmak için gelişmiş SQL sorguları ve segmentasyon teknikleri kullanılmıştır.  
 
-  
+- **[Python Final Project (Nobel)](https://github.com/tayfunseker/PYTHON_PROJECT_FINAL/tree/main)**:
+  - Bu projede, veri setindeki temel kalıpları ve eğilimleri göstermek için çeşitli grafikler ve görseller oluşturuldu. 
+  - Nobel Ödülleri'nin yıllar içindeki değişimini anlamaya yardımcı olacak analizler yapıldı.
+
+- **[SQL PROJECT (RFM, ETRADER)](https://github.com/tayfunseker/SQL_PROJECT)**:
+  - Bu proje, bir e-ticaret veri seti üzerinde **RFM Analizi, Satış Analizi, Müşteri ve Satıcı Analizleri, Ödeme Tipleri Analizi** gibi işlemleri SQL kullanarak gerçekleştirmektedir.
+  - Çalışmada, veri setinden anlamlı içgörüler çıkarmak için gelişmiş SQL sorguları ve segmentasyon teknikleri kullanılmıştır.
 
 ---
 
@@ -55,8 +59,6 @@
 - 📧 E-posta: [tayfunseker.3579@gmail.com](mailto:tayfunseker.3579@gmail.com)
 - 🌐 LinkedIn: [Tayfun Şeker](https://www.linkedin.com/in/tayfun-%C5%9Feker-6a22322a9/)
 - 🐙 GitHub: [tayfun79](https://github.com/tayfunseker)
-
----
 
 
 
